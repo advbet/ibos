@@ -29,6 +29,7 @@ type Events []Event
 
 type Event struct {
 	Name           string
+	GameID         int           // Unique Identifier for game
 	EventDate      time.Time     // Date of the Event
 	Places         int           // Indicated the number places that would pay in the market
 	IsExact3       bool          // Indicates market included in Trifecta exotic bet type
@@ -37,6 +38,7 @@ type Event struct {
 	ResultExpected time.Time     // Date time at which the result is expected
 	Status         MarketStatus  // Indicates the status of the event (market)
 	MarketName     string        // Descriptive name of a market
+	MarketID       int           // Unique Identifier for a market
 
 	Refund       *Refund
 	Participants []Participant
@@ -164,6 +166,7 @@ func (e *Events) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 
 		*e = append(*e, Event{
 			Name:           games[market.GameID],
+			GameID:         market.GameID,
 			EventDate:      eventDate,
 			Places:         market.Places,
 			IsExact3:       market.IsExact3 == 1,
@@ -172,6 +175,7 @@ func (e *Events) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 			ResultExpected: resultExpected,
 			Status:         market.Status,
 			MarketName:     market.Name,
+			MarketID:       market.ID,
 			Refund:         refund,
 			Participants:   participants,
 		})
