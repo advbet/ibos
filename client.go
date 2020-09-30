@@ -80,33 +80,19 @@ func (c *Client) retrv(conn *ftp.ServerConn, fileName string) ([]byte, error) {
 	return data, nil
 }
 
-// Get retrieves a batch of horses documents from the FTP server.
-func (c *Client) Get(filenames []string) ([]horses.Events, error) {
-	conn, err := ftp.DialTimeouts(c.hostname, dialTimeout, retrTimeout)
+// Get retrieves horses document from the FTP server.
+func (c *Client) Get(conn *ftp.ServerConn, fileName string) (*horses.Events, error) {
+	data, err := c.retrv(conn, fileName)
 	if err != nil {
-		return nil, err
-	}
-	defer conn.Quit()
-
-	if err = conn.Login(c.username, c.password); err != nil {
-		return nil, err
+		return nil, fmt.Errorf("ibos: getting %s file: %x", fileName, err)
 	}
 
-	docs := make([]horses.Events, 0, len(filenames))
-	for _, filename := range filenames {
-		data, err := c.retrv(conn, filename)
-		if err != nil {
-			return nil, fmt.Errorf("ibos: getting %s file: %x", filename, err)
-		}
-
-		var events horses.Events
-		if err := xml.Unmarshal(data, &events); err != nil {
-			return nil, fmt.Errorf("ibos: unmarshaling %s file: %x", filename, err)
-		}
-
-		docs = append(docs, events)
+	var events horses.Events
+	if err := xml.Unmarshal(data, &events); err != nil {
+		return nil, fmt.Errorf("ibos: unmarshaling %s file: %x", fileName, err)
 	}
-	return docs, nil
+
+	return &events, nil
 }
 
 // Stream starts a goroutine for continuous horses documents delivery. Stream can
@@ -142,13 +128,28 @@ func (c *Client) streamPoll(ch chan<- Data, lastFile string) string {
 	if len(missing) == 0 {
 		return lastFile
 	}
-	docs, err := c.Get(missing)
+
+	conn, err := ftp.DialTimeouts(c.hostname, dialTimeout, retrTimeout)
 	if err != nil {
 		ch <- Data{Error: err}
 		return lastFile
 	}
-	for i, doc := range docs {
-		ch <- Data{Data: doc, Filename: missing[i]}
+	defer conn.Quit()
+
+	if err := conn.Login(c.username, c.password); err != nil {
+		ch <- Data{Error: err}
+		return lastFile
+	}
+
+	for _, fileName := range missing {
+		events, err := c.Get(conn, fileName)
+		if err != nil {
+			ch <- Data{Error: err}
+			return lastFile
+		}
+
+		ch <- Data{Data: *events, Filename: fileName}
+		lastFile = fileName
 	}
 	return missing[len(missing)-1]
 }
