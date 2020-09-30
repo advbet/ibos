@@ -2,7 +2,6 @@ package ibos
 
 import (
 	"context"
-	"encoding/xml"
 	"errors"
 	"fmt"
 	"io/ioutil"
@@ -11,7 +10,6 @@ import (
 	"strings"
 	"time"
 
-	"bitbucket.org/advbet/ibos/horses"
 	"github.com/Amfii/ftp"
 )
 
@@ -20,7 +18,7 @@ const retrTimeout = 1 * time.Minute
 
 // Data wraps feed events and error to be returned via streamed channel
 type Data struct {
-	Data     horses.Events
+	Data     []byte
 	Filename string
 	Error    error
 }
@@ -80,21 +78,6 @@ func (c *Client) retrv(conn *ftp.ServerConn, fileName string) ([]byte, error) {
 	return data, nil
 }
 
-// Get retrieves horses document from the FTP server.
-func (c *Client) Get(conn *ftp.ServerConn, fileName string) (*horses.Events, error) {
-	data, err := c.retrv(conn, fileName)
-	if err != nil {
-		return nil, fmt.Errorf("ibos: getting %s file: %x", fileName, err)
-	}
-
-	var events horses.Events
-	if err := xml.Unmarshal(data, &events); err != nil {
-		return nil, fmt.Errorf("ibos: unmarshaling %s file: %x", fileName, err)
-	}
-
-	return &events, nil
-}
-
 // Stream starts a goroutine for continuous horses documents delivery. Stream can
 // be stopped by stopping `ctx` context. Parameter `lastFile` is used to skip
 // restreaming already processed documents. Polling will be performed every
@@ -142,13 +125,13 @@ func (c *Client) streamPoll(ch chan<- Data, lastFile string) string {
 	}
 
 	for _, fileName := range missing {
-		events, err := c.Get(conn, fileName)
+		data, err := c.retrv(conn, fileName)
 		if err != nil {
 			ch <- Data{Error: err}
 			return lastFile
 		}
 
-		ch <- Data{Data: *events, Filename: fileName}
+		ch <- Data{Data: data, Filename: fileName}
 		lastFile = fileName
 	}
 	return missing[len(missing)-1]

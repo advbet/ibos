@@ -33,6 +33,6 @@ func main() {
 			continue
 		}
 		fmt.Printf("==== %s ====\n", msg.Filename)
-		fmt.Println(msg.Data)
+		fmt.Println(string(msg.Data))
 	}
 }
