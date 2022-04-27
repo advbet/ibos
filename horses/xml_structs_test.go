@@ -46,6 +46,8 @@ func TestParseEvents(t *testing.T) {
 					Status:         MarketProvResult,
 					MarketName:     "Race 5",
 					Refund:         nil,
+					MarketID:       6060380,
+					GameID:         519452,
 					Participants: []Participant{
 						{
 							Name:           "Han Solo Berger",
@@ -136,6 +138,8 @@ func TestParseEvents(t *testing.T) {
 					Status:         MarketOpen,
 					MarketName:     "Race 7",
 					Refund:         nil,
+					MarketID:       6060385,
+					GameID:         519452,
 					Participants: []Participant{
 						{
 							Name:           "Alpine Mistral",
@@ -177,6 +181,8 @@ func TestParseEvents(t *testing.T) {
 					Status:         MarketOpen,
 					MarketName:     "Race 8",
 					Refund:         nil,
+					MarketID:       6060386,
+					GameID:         519452,
 					Participants: []Participant{
 						{
 							Name:           "Filles De Fleur",
@@ -211,6 +217,8 @@ func TestParseEvents(t *testing.T) {
 					Status:         MarketOpen,
 					MarketName:     "Race 9",
 					Refund:         nil,
+					MarketID:       6060387,
+					GameID:         519452,
 					Participants: []Participant{
 						{
 							Name:           "Fantastic Blue",
@@ -245,6 +253,8 @@ func TestParseEvents(t *testing.T) {
 					Status:         MarketFinalized,
 					MarketName:     "Race 7",
 					Refund:         nil,
+					MarketID:       6064409,
+					GameID:         524074,
 					Participants: []Participant{
 						{
 							Name:           "Cursory Exam",
@@ -307,6 +317,8 @@ func TestParseEvents(t *testing.T) {
 					Status:         MarketOpen,
 					MarketName:     "Race 8",
 					Refund:         nil,
+					MarketID:       6064412,
+					GameID:         524074,
 					Participants: []Participant{
 						{
 							Name:           "Ramiro",

@@ -1,1 +1,368 @@
-<JuiceDataFeed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" FeedTypeID="-1"><Games><Game GameID="524074" ParentGameID="1" NodeType="JuiceExportGameID" ParentNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Curragh</Name></Game><Game GameID="1" NodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Horse Racing</Name></Game><Game GameID="519452" ParentGameID="1" NodeType="JuiceExportGameID" ParentNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Newmarket</Name></Game></Games><Markets><Market MarketID="6060380" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID" OddsType="100001" EventDate="2020-08-28T18:20:00" EventStatus="PR" FeedTypeID="-1" IsOutright="false" IsAutoClose="1" ResultExpected="2020-08-28T18:30:00" InRunningDelay="0" PercOfWin="11.0000" WagerOpen="2020-08-27T09:41:21" WagerClose="2020-08-28T18:30:00" ScratchCutOffDateTime="2020-08-27T09:36:21.0730000" IsDisplay="1" DisplayStart="2020-08-27T09:41:21" DisplayEnd="2020-08-28T18:30:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:21" DisplayAPIEnd="2020-08-28T18:30:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0" IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" APIMemo="FIXED ODDS PLACES 1.2.3.4" ApplyDeadHeatRules="1" NoOfPlaces="4"><Name>Race 5</Name></Market><Market MarketID="6060385" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID" OddsType="100001" EventDate="2020-08-28T19:30:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false" IsAutoClose="1" ResultExpected="2020-08-28T19:40:00" InRunningDelay="0" PercOfWin="15.0000" WagerOpen="2020-08-27T09:41:31" WagerClose="2020-08-28T19:40:00" ScratchCutOffDateTime="2020-08-27T09:36:31.2100000" IsDisplay="1" DisplayStart="2020-08-27T09:41:31" DisplayEnd="2020-08-28T19:40:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:31" DisplayAPIEnd="2020-08-28T19:40:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0" IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" APIMemo="FIXED ODDS PLACES 1.2.3" ApplyDeadHeatRules="1" NoOfPlaces="3"><Name>Race 7</Name></Market><Market MarketID="6060386" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID" OddsType="100001" EventDate="2020-08-28T20:00:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false" IsAutoClose="1" ResultExpected="2020-08-28T20:10:00" InRunningDelay="0" PercOfWin="10.0000" WagerOpen="2020-08-27T09:41:31" WagerClose="2020-08-28T20:10:00" ScratchCutOffDateTime="2020-08-27T09:36:31.2100000" IsDisplay="1" DisplayStart="2020-08-27T09:41:31" DisplayEnd="2020-08-28T20:10:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:31" DisplayAPIEnd="2020-08-28T20:10:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0" IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" APIMemo="FIXED ODDS PLACES 1.2.3" ApplyDeadHeatRules="1" NoOfPlaces="3"><Name>Race 8</Name></Market><Market MarketID="6060387" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID" OddsType="100001" EventDate="2020-08-28T20:35:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false" IsAutoClose="1" ResultExpected="2020-08-28T20:45:00" InRunningDelay="0" PercOfWin="18.0000" WagerOpen="2020-08-27T09:41:31" WagerClose="2020-08-28T20:45:00" ScratchCutOffDateTime="2020-08-27T09:36:31.2100000" IsDisplay="1" DisplayStart="2020-08-27T09:41:31" DisplayEnd="2020-08-28T20:45:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:31" DisplayAPIEnd="2020-08-28T20:45:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0" IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" APIMemo="FIXED ODDS PLACES 1.2.3" ApplyDeadHeatRules="1" NoOfPlaces="3"><Name>Race 9</Name></Market><Market MarketID="6064409" MarketNodeType="JuiceExportMarketID" GameID="524074" GameNodeType="JuiceExportGameID" OddsType="100001" EventDate="2020-08-28T18:10:00" EventStatus="FI" FeedTypeID="-1" IsOutright="false" IsAutoClose="1" ResultExpected="2020-08-28T18:20:00" InRunningDelay="0" PercOfWin="33.0000" WagerOpen="2020-08-28T10:31:20" WagerClose="2020-08-28T18:20:00" ScratchCutOffDateTime="2020-08-28T10:26:20.5300000" IsDisplay="1" DisplayStart="2020-08-28T10:31:20" DisplayEnd="2020-08-28T18:20:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-28T10:31:20" DisplayAPIEnd="2020-08-28T18:20:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0" IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" ApplyDeadHeatRules="1" NoOfPlaces="2"><Name>Race 7</Name></Market><Market MarketID="6064412" MarketNodeType="JuiceExportMarketID" GameID="524074" GameNodeType="JuiceExportGameID" OddsType="100001" EventDate="2020-08-28T18:45:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false" IsAutoClose="1" ResultExpected="2020-08-28T18:55:00" InRunningDelay="0" PercOfWin="15.0000" WagerOpen="2020-08-28T10:33:10" WagerClose="2020-08-28T18:55:00" ScratchCutOffDateTime="2020-08-28T10:28:10.7570000" IsDisplay="1" DisplayStart="2020-08-28T10:33:10" DisplayEnd="2020-08-28T18:55:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-28T10:33:10" DisplayAPIEnd="2020-08-28T18:55:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0" IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" ApplyDeadHeatRules="1" NoOfPlaces="4"><Name>Race 8</Name></Market></Markets><MarketOptions><MarketOption MarketOptionID="40267426" MarketID="6064412" MarketNodeType="JuiceExportMarketID" ParticipantID="764694" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="6.5000" OpenPlacePrice="1.6250" DisplayNumber="8" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40267428" MarketID="6064412" MarketNodeType="JuiceExportMarketID" ParticipantID="776881" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="4.5000" OpenPlacePrice="1.1250" DisplayNumber="10" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40267430" MarketID="6064412" MarketNodeType="JuiceExportMarketID" ParticipantID="760793" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="12.0000" OpenPlacePrice="3.0000" DisplayNumber="12" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234236" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="761073" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" ResultPosition="3" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="1" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234238" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="772422" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="3" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234239" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="790031" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" ResultPosition="1" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="4" MarketOptionStatusCode="OP" WinPercentage="100.0000" PlacePercentage="100.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234240" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="526212" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" ResultPosition="4" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="5" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234242" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="783254" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="7" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234243" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="771095" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="8" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234244" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="796920" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" ResultPosition="2" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="9" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234245" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="384401" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="10" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234246" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="781973" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="11" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234247" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="86998" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="12" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234249" MarketID="6060380" MarketNodeType="JuiceExportMarketID" ParticipantID="87019" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="14" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234295" MarketID="6060385" MarketNodeType="JuiceExportMarketID" ParticipantID="753054" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="2" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234299" MarketID="6060385" MarketNodeType="JuiceExportMarketID" ParticipantID="541296" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="6" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234301" MarketID="6060385" MarketNodeType="JuiceExportMarketID" ParticipantID="651813" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="8" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234302" MarketID="6060385" MarketNodeType="JuiceExportMarketID" ParticipantID="753228" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="9" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234312" MarketID="6060387" MarketNodeType="JuiceExportMarketID" ParticipantID="796932" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="1" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234316" MarketID="6060387" MarketNodeType="JuiceExportMarketID" ParticipantID="796928" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="5" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234321" MarketID="6060387" MarketNodeType="JuiceExportMarketID" ParticipantID="615589" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="10" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40267391" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="797608" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="4.5000" OpenPlacePrice="1.1250" DisplayNumber="1" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40267392" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="787670" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="12.0000" OpenPlacePrice="3.0000" DisplayNumber="2" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40267393" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="760845" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="3.5000" OpenPlacePrice="0.8750" DisplayNumber="3" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40267394" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="797834" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" ResultPosition="1" OpenWinPrice="9.0000" OpenPlacePrice="2.2500" DisplayNumber="4" MarketOptionStatusCode="OP" WinPercentage="100.0000" PlacePercentage="100.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40267395" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="774900" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="4.0000" OpenPlacePrice="1.0000" DisplayNumber="5" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40267396" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="760841" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" ResultPosition="2" OpenWinPrice="1.7500" OpenPlacePrice="0.4375" DisplayNumber="6" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40267397" MarketID="6064409" MarketNodeType="JuiceExportMarketID" ParticipantID="789524" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="8.0000" OpenPlacePrice="2.0000" DisplayNumber="7" MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1" /><MarketOption MarketOptionID="40234303" MarketID="6060386" MarketNodeType="JuiceExportMarketID" ParticipantID="753288" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="1" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234305" MarketID="6060386" MarketNodeType="JuiceExportMarketID" ParticipantID="772520" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="3" MarketOptionStatusCode="OP" FeedTypeID="-1" /><MarketOption MarketOptionID="40234307" MarketID="6060386" MarketNodeType="JuiceExportMarketID" ParticipantID="796937" ParticipantIDType="JuiceExportParticipantID" ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="5" MarketOptionStatusCode="OP" FeedTypeID="-1" /></MarketOptions><Participants><Participant ParticipantID="86998" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Green Door</Name></Participant><Participant ParticipantID="87019" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Shamshon</Name></Participant><Participant ParticipantID="384401" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Jumira Bridge</Name></Participant><Participant ParticipantID="526212" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Thegreatestshowman</Name></Participant><Participant ParticipantID="541296" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Katniss Everdeen</Name></Participant><Participant ParticipantID="615589" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Overpriced Mixer</Name></Participant><Participant ParticipantID="651813" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Licit</Name></Participant><Participant ParticipantID="753054" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Alpine Mistral</Name></Participant><Participant ParticipantID="753228" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Corofin</Name></Participant><Participant ParticipantID="753288" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Filles De Fleur</Name></Participant><Participant ParticipantID="760793" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Puddle Of Luck</Name></Participant><Participant ParticipantID="760841" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Omakase</Name></Participant><Participant ParticipantID="760845" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Shambara</Name></Participant><Participant ParticipantID="761073" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Han Solo Berger</Name></Participant><Participant ParticipantID="764694" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Ramiro</Name></Participant><Participant ParticipantID="771095" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Grandfather Tom</Name></Participant><Participant ParticipantID="772422" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Zig Zag Zyggy</Name></Participant><Participant ParticipantID="772520" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Zephyrina</Name></Participant><Participant ParticipantID="774900" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Abogados</Name></Participant><Participant ParticipantID="776881" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Scherzando</Name></Participant><Participant ParticipantID="781973" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Haveoneyerself</Name></Participant><Participant ParticipantID="783254" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Rio Ronaldo</Name></Participant><Participant ParticipantID="787670" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Get Noticed</Name></Participant><Participant ParticipantID="789524" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Verbal Fencing</Name></Participant><Participant ParticipantID="790031" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Live In The Moment</Name></Participant><Participant ParticipantID="796920" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Colonel Frank</Name></Participant><Participant ParticipantID="796928" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Berrahri</Name></Participant><Participant ParticipantID="796932" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Fantastic Blue</Name></Participant><Participant ParticipantID="796937" ParticipantIDType="JuiceExportParticipantID" GameID="519452" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Mrs Meader</Name></Participant><Participant ParticipantID="797608" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Cursory Exam</Name></Participant><Participant ParticipantID="797834" ParticipantIDType="JuiceExportParticipantID" GameID="524074" GameNodeType="JuiceExportGameID" FeedTypeID="-1"><Name>Star Image</Name></Participant></Participants><MarketRefunds /><MarketRelatedList /></JuiceDataFeed>
+<JuiceDataFeed FeedTypeID="-1">
+    <Games>
+        <Game GameID="524074" ParentGameID="1" NodeType="JuiceExportGameID" ParentNodeType="JuiceExportGameID"
+              FeedTypeID="-1">
+            <Name>Curragh</Name>
+        </Game>
+        <Game GameID="1" NodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Horse Racing</Name>
+        </Game>
+        <Game GameID="519452" ParentGameID="1" NodeType="JuiceExportGameID" ParentNodeType="JuiceExportGameID"
+              FeedTypeID="-1">
+            <Name>Newmarket</Name>
+        </Game>
+    </Games>
+    <Markets>
+        <Market MarketID="6060380" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID"
+                OddsType="100001" EventDate="2020-08-28T18:20:00" EventStatus="PR" FeedTypeID="-1" IsOutright="false"
+                IsAutoClose="1" ResultExpected="2020-08-28T18:30:00" InRunningDelay="0" PercOfWin="11.0000"
+                WagerOpen="2020-08-27T09:41:21" WagerClose="2020-08-28T18:30:00"
+                ScratchCutOffDateTime="2020-08-27T09:36:21.0730000" IsDisplay="1" DisplayStart="2020-08-27T09:41:21"
+                DisplayEnd="2020-08-28T18:30:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:21"
+                DisplayAPIEnd="2020-08-28T18:30:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0"
+                IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001"
+                APIMemo="FIXED ODDS PLACES 1.2.3.4" ApplyDeadHeatRules="1" NoOfPlaces="4">
+            <Name>Race 5</Name>
+        </Market>
+        <Market MarketID="6060385" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID"
+                OddsType="100001" EventDate="2020-08-28T19:30:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false"
+                IsAutoClose="1" ResultExpected="2020-08-28T19:40:00" InRunningDelay="0" PercOfWin="15.0000"
+                WagerOpen="2020-08-27T09:41:31" WagerClose="2020-08-28T19:40:00"
+                ScratchCutOffDateTime="2020-08-27T09:36:31.2100000" IsDisplay="1" DisplayStart="2020-08-27T09:41:31"
+                DisplayEnd="2020-08-28T19:40:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:31"
+                DisplayAPIEnd="2020-08-28T19:40:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0"
+                IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001"
+                APIMemo="FIXED ODDS PLACES 1.2.3" ApplyDeadHeatRules="1" NoOfPlaces="3">
+            <Name>Race 7</Name>
+        </Market>
+        <Market MarketID="6060386" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID"
+                OddsType="100001" EventDate="2020-08-28T20:00:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false"
+                IsAutoClose="1" ResultExpected="2020-08-28T20:10:00" InRunningDelay="0" PercOfWin="10.0000"
+                WagerOpen="2020-08-27T09:41:31" WagerClose="2020-08-28T20:10:00"
+                ScratchCutOffDateTime="2020-08-27T09:36:31.2100000" IsDisplay="1" DisplayStart="2020-08-27T09:41:31"
+                DisplayEnd="2020-08-28T20:10:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:31"
+                DisplayAPIEnd="2020-08-28T20:10:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0"
+                IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001"
+                APIMemo="FIXED ODDS PLACES 1.2.3" ApplyDeadHeatRules="1" NoOfPlaces="3">
+            <Name>Race 8</Name>
+        </Market>
+        <Market MarketID="6060387" MarketNodeType="JuiceExportMarketID" GameID="519452" GameNodeType="JuiceExportGameID"
+                OddsType="100001" EventDate="2020-08-28T20:35:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false"
+                IsAutoClose="1" ResultExpected="2020-08-28T20:45:00" InRunningDelay="0" PercOfWin="18.0000"
+                WagerOpen="2020-08-27T09:41:31" WagerClose="2020-08-28T20:45:00"
+                ScratchCutOffDateTime="2020-08-27T09:36:31.2100000" IsDisplay="1" DisplayStart="2020-08-27T09:41:31"
+                DisplayEnd="2020-08-28T20:45:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-27T09:41:31"
+                DisplayAPIEnd="2020-08-28T20:45:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0"
+                IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001"
+                APIMemo="FIXED ODDS PLACES 1.2.3" ApplyDeadHeatRules="1" NoOfPlaces="3">
+            <Name>Race 9</Name>
+        </Market>
+        <Market MarketID="6064409" MarketNodeType="JuiceExportMarketID" GameID="524074" GameNodeType="JuiceExportGameID"
+                OddsType="100001" EventDate="2020-08-28T18:10:00" EventStatus="FI" FeedTypeID="-1" IsOutright="false"
+                IsAutoClose="1" ResultExpected="2020-08-28T18:20:00" InRunningDelay="0" PercOfWin="33.0000"
+                WagerOpen="2020-08-28T10:31:20" WagerClose="2020-08-28T18:20:00"
+                ScratchCutOffDateTime="2020-08-28T10:26:20.5300000" IsDisplay="1" DisplayStart="2020-08-28T10:31:20"
+                DisplayEnd="2020-08-28T18:20:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-28T10:31:20"
+                DisplayAPIEnd="2020-08-28T18:20:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0"
+                IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" ApplyDeadHeatRules="1"
+                NoOfPlaces="2">
+            <Name>Race 7</Name>
+        </Market>
+        <Market MarketID="6064412" MarketNodeType="JuiceExportMarketID" GameID="524074" GameNodeType="JuiceExportGameID"
+                OddsType="100001" EventDate="2020-08-28T18:45:00" EventStatus="OP" FeedTypeID="-1" IsOutright="false"
+                IsAutoClose="1" ResultExpected="2020-08-28T18:55:00" InRunningDelay="0" PercOfWin="15.0000"
+                WagerOpen="2020-08-28T10:33:10" WagerClose="2020-08-28T18:55:00"
+                ScratchCutOffDateTime="2020-08-28T10:28:10.7570000" IsDisplay="1" DisplayStart="2020-08-28T10:33:10"
+                DisplayEnd="2020-08-28T18:55:00" IsDisplayAPI="1" DisplayAPIStart="2020-08-28T10:33:10"
+                DisplayAPIEnd="2020-08-28T18:55:00" IsAny2="0" IsExact2="0" IsAny3="0" IsExact3="0" IsAny4="0"
+                IsExact4="0" IsAny2of3="0" IsAny2of4="0" IsAny3of4="0" JuiceOddsTypeCode="100001" ApplyDeadHeatRules="1"
+                NoOfPlaces="4">
+            <Name>Race 8</Name>
+        </Market>
+    </Markets>
+    <MarketOptions>
+        <MarketOption MarketOptionID="40267426" MarketID="6064412" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="764694" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="6.5000" OpenPlacePrice="1.6250" DisplayNumber="8" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267428" MarketID="6064412" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="776881" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="4.5000" OpenPlacePrice="1.1250" DisplayNumber="10" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267430" MarketID="6064412" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="760793" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="12.0000" OpenPlacePrice="3.0000" DisplayNumber="12" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234236" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="761073" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      ResultPosition="3" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="1"
+                      MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234238" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="772422" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="3" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234239" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="790031" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      ResultPosition="1" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="4"
+                      MarketOptionStatusCode="OP" WinPercentage="100.0000" PlacePercentage="100.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234240" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="526212" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      ResultPosition="4" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="5"
+                      MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234242" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="783254" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="7" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234243" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="771095" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="8" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234244" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="796920" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      ResultPosition="2" OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="9"
+                      MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234245" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="384401" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="10" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234246" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="781973" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="11" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234247" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="86998" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="12" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234249" MarketID="6060380" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="87019" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="14" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234295" MarketID="6060385" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="753054" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="2" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234299" MarketID="6060385" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="541296" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="6" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234301" MarketID="6060385" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="651813" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="8" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234302" MarketID="6060385" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="753228" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="9" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234312" MarketID="6060387" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="796932" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="1" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234316" MarketID="6060387" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="796928" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="5" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234321" MarketID="6060387" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="615589" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="10" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267391" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="797608" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="4.5000" OpenPlacePrice="1.1250" DisplayNumber="1" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267392" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="787670" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="12.0000" OpenPlacePrice="3.0000" DisplayNumber="2" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267393" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="760845" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="3.5000" OpenPlacePrice="0.8750" DisplayNumber="3" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267394" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="797834" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      ResultPosition="1" OpenWinPrice="9.0000" OpenPlacePrice="2.2500" DisplayNumber="4"
+                      MarketOptionStatusCode="OP" WinPercentage="100.0000" PlacePercentage="100.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267395" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="774900" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="4.0000" OpenPlacePrice="1.0000" DisplayNumber="5" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267396" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="760841" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      ResultPosition="2" OpenWinPrice="1.7500" OpenPlacePrice="0.4375" DisplayNumber="6"
+                      MarketOptionStatusCode="OP" WinPercentage="0.0000" PlacePercentage="100.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40267397" MarketID="6064409" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="789524" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="8.0000" OpenPlacePrice="2.0000" DisplayNumber="7" MarketOptionStatusCode="OP"
+                      WinPercentage="0.0000" PlacePercentage="0.0000" FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234303" MarketID="6060386" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="753288" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="1" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234305" MarketID="6060386" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="772520" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="3" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+        <MarketOption MarketOptionID="40234307" MarketID="6060386" MarketNodeType="JuiceExportMarketID"
+                      ParticipantID="796937" ParticipantIDType="JuiceExportParticipantID"
+                      ParticipantIDType1="JuiceExportParticipantID" OddsType="100001" IsOutright="false"
+                      OpenWinPrice="0.0000" OpenPlacePrice="0.0000" DisplayNumber="5" MarketOptionStatusCode="OP"
+                      FeedTypeID="-1"/>
+    </MarketOptions>
+    <Participants>
+        <Participant ParticipantID="86998" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Green Door</Name>
+        </Participant>
+        <Participant ParticipantID="87019" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Shamshon</Name>
+        </Participant>
+        <Participant ParticipantID="384401" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Jumira Bridge</Name>
+        </Participant>
+        <Participant ParticipantID="526212" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Thegreatestshowman</Name>
+        </Participant>
+        <Participant ParticipantID="541296" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Katniss Everdeen</Name>
+        </Participant>
+        <Participant ParticipantID="615589" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Overpriced Mixer</Name>
+        </Participant>
+        <Participant ParticipantID="651813" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Licit</Name>
+        </Participant>
+        <Participant ParticipantID="753054" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Alpine Mistral</Name>
+        </Participant>
+        <Participant ParticipantID="753228" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Corofin</Name>
+        </Participant>
+        <Participant ParticipantID="753288" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Filles De Fleur</Name>
+        </Participant>
+        <Participant ParticipantID="760793" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Puddle Of Luck</Name>
+        </Participant>
+        <Participant ParticipantID="760841" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Omakase</Name>
+        </Participant>
+        <Participant ParticipantID="760845" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Shambara</Name>
+        </Participant>
+        <Participant ParticipantID="761073" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Han Solo Berger</Name>
+        </Participant>
+        <Participant ParticipantID="764694" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Ramiro</Name>
+        </Participant>
+        <Participant ParticipantID="771095" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Grandfather Tom</Name>
+        </Participant>
+        <Participant ParticipantID="772422" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Zig Zag Zyggy</Name>
+        </Participant>
+        <Participant ParticipantID="772520" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Zephyrina</Name>
+        </Participant>
+        <Participant ParticipantID="774900" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Abogados</Name>
+        </Participant>
+        <Participant ParticipantID="776881" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Scherzando</Name>
+        </Participant>
+        <Participant ParticipantID="781973" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Haveoneyerself</Name>
+        </Participant>
+        <Participant ParticipantID="783254" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Rio Ronaldo</Name>
+        </Participant>
+        <Participant ParticipantID="787670" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Get Noticed</Name>
+        </Participant>
+        <Participant ParticipantID="789524" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Verbal Fencing</Name>
+        </Participant>
+        <Participant ParticipantID="790031" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Live In The Moment</Name>
+        </Participant>
+        <Participant ParticipantID="796920" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Colonel Frank</Name>
+        </Participant>
+        <Participant ParticipantID="796928" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Berrahri</Name>
+        </Participant>
+        <Participant ParticipantID="796932" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Fantastic Blue</Name>
+        </Participant>
+        <Participant ParticipantID="796937" ParticipantIDType="JuiceExportParticipantID" GameID="519452"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Mrs Meader</Name>
+        </Participant>
+        <Participant ParticipantID="797608" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Cursory Exam</Name>
+        </Participant>
+        <Participant ParticipantID="797834" ParticipantIDType="JuiceExportParticipantID" GameID="524074"
+                     GameNodeType="JuiceExportGameID" FeedTypeID="-1">
+            <Name>Star Image</Name>
+        </Participant>
+    </Participants>
+    <MarketRefunds/>
+    <MarketRelatedList/>
+</JuiceDataFeed>
