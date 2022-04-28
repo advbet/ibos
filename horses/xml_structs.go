@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/advbet/decimal"
+	"github.com/advbet/decimal"
 )
 
 type MarketStatus string

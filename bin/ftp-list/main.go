@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/advbet/ibos"
+	"github.com/advbet/ibos"
 	"github.com/sirupsen/logrus"
 )
 
